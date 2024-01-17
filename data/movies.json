@@ -1,13 +1,268 @@
 {
-    "movies": [
-      {
-      "name": "Tu Jhoothi Main Makkar",
+  "movies": [
+    {
+      "name": "Runway 34",
       "recommended": true
-      },
-      {
-        "name": "Bholaa",
-        "recommended": false
-      }
-    ]
-  
-  }
+    },
+    {
+      "name": "Attack",
+      "recommended": true
+    },
+    {
+      "name": "Jersey",
+      "recommended": true
+    },
+    {
+      "name": "Rowan Atkinson's (Mr.Bean's) mini series Man vs Bee",
+      "recommended": true
+    },
+    {
+      "name": "Green Mile",
+      "recommended": true
+    },
+    {
+      "name": "The Shawshank Redemption",
+      "recommended": true
+    },
+    {
+      "name": "Major",
+      "recommended": true
+    },
+    {
+      "name": "carry on jatta",
+      "recommended": true
+    },
+    {
+      "name": "The Debt",
+      "recommended": true
+    },
+    {
+      "name": "dncooper documentary",
+      "recommended": true
+    },
+    {
+      "name": "Matrix",
+      "recommended": true
+    },
+    {
+      "name": "Pink Panther",
+      "recommended": true
+    },
+    {
+      "name": "Breach",
+      "recommended": true
+    },
+    {
+      "name": "Black Adam",
+      "recommended": true
+    },
+    {
+      "name": "Shawshank Redemption",
+      "recommended": true
+    },
+    {
+      "name": "CBI 5",
+      "recommended": true
+    },
+    {
+      "name": "Duranga",
+      "recommended": true
+    },
+    {
+      "name": "Horizon line",
+      "recommended": true
+    },
+    {
+      "name": "Samaritan",
+      "recommended": true
+    },
+    {
+      "name": "Panchayat",
+      "recommended": true
+    },
+    {
+      "name": "Scent of a woman",
+      "recommended": true
+    },
+    {
+      "name": "Prey",
+      "recommended": true
+    },
+    {
+      "name": "Top gun 2",
+      "recommended": true
+    },
+    {
+      "name": "Pursuit of happiness",
+      "recommended": true
+    },
+    {
+      "name": "Naam mera govinda",
+      "recommended": true
+    },
+    {
+      "name": "Inception",
+      "recommended": true
+    },
+    {
+      "name": "Horizon Line",
+      "recommended": true
+    },
+    {
+      "name": "Nope",
+      "recommended": true
+    },
+    {
+      "name": "Parasite",
+      "recommended": true
+    },
+    {
+      "name": "The Arrival",
+      "recommended": true
+    },
+    {
+      "name": "Coherence",
+      "recommended": true
+    },
+    {
+      "name": "Ruroni Kenshin",
+      "recommended": true
+    },
+    {
+      "name": "Interstellar",
+      "recommended": true
+    },
+    {
+      "name": "monica my darling",
+      "recommended": true
+    },
+    {
+      "name": "Hit The First Case",
+      "recommended": true
+    },
+    {
+      "name": "1899",
+      "recommended": true
+    },
+    {
+      "name": "Shutter island",
+      "recommended": true
+    },
+    {
+      "name": "Thallumalla (malayalam)",
+      "recommended": true
+    },
+    {
+      "name": "6th Sense",
+      "recommended": true
+    },
+    {
+      "name": "Usual Suspects",
+      "recommended": true
+    },
+    {
+      "name": "The Village",
+      "recommended": true
+    },
+    {
+      "name": "The Terminal",
+      "recommended": true
+    },
+    {
+      "name": "Jhimma(Marathi]",
+      "recommended": true
+    },
+    {
+      "name": "Dhurala(Marathi)",
+      "recommended": true
+    },
+    {
+      "name": "Tula Kalnar Naahi",
+      "recommended": true
+    },
+    {
+      "name": "A Spider",
+      "recommended": true
+    },
+    {
+      "name": "Drishyam",
+      "recommended": true
+    },
+    {
+      "name": "Sadma",
+      "recommended": true
+    },
+    {
+      "name": "Sita Ramam",
+      "recommended": true
+    },
+    {
+      "name": "Rocketery",
+      "recommended": true
+    },
+    {
+      "name": "Drishyam 2",
+      "recommended": true
+    },
+    {
+      "name": "The great indian kitchen",
+      "recommended": true
+    },
+    {
+      "name": "Infinity Stones",
+      "recommended": true
+    },
+    {
+      "name": "kantara",
+      "recommended": true
+    },
+    {
+      "name": "Ramsetu",
+      "recommended": true
+    },
+    {
+      "name": "Good bye",
+      "recommended": true
+    },
+    {
+      "name": "Freddy",
+      "recommended": true
+    },
+    {
+      "name": "kill bill",
+      "recommended": true
+    },
+    {
+      "name": "Taken",
+      "recommended": true
+    },
+    {
+      "name": "Phone Booth",
+      "recommended": true
+    },
+    {
+      "name": "Constant Gardener",
+      "recommended": true
+    },
+    {
+      "name": "Extraction",
+      "recommended": true
+    },
+    {
+      "name": "Moana",
+      "recommended": true
+    },
+    {
+      "name": "Boss Baby",
+      "recommended": true
+    },
+    {
+      "name": "Minions",
+      "recommended": true
+    },
+    {
+      "name": "Finding Dory",
+      "recommended": true
+    }
+  ]
+}
