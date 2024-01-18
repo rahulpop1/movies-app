@@ -10,7 +10,8 @@ function Movies() {
       try {
         const response = await fetch('/api/movies');
         const data = await response.json();
-        setMovies(data.movies || []);
+        const sortedMovies = data.movies ? data.movies.sort((a, b) => a.name.localeCompare(b.name)) : [];
+        setMovies(sortedMovies);
       } catch (error) {
         console.error('Error fetching movies:', error);
       }
@@ -23,6 +24,7 @@ function Movies() {
     {
       dataField: 'name',
       text: 'Name',
+      sort: true,
     },
     {
       dataField: 'recommended',
@@ -34,13 +36,24 @@ function Movies() {
   ];
 
   return (
-    <div>
-      <h1>Movies</h1>
-      {movies.length > 0 ? (
-        <BootstrapTable keyField='name' data={movies} columns={columns} />
-      ) : (
-        <p>No movies available</p>
-      )}
+    <div className="container mt-5">
+      <div className="row">
+        <div className="col-12">
+          <h1 className="text-center mb-4">Movie Recommendations</h1>
+          {movies.length > 0 ? (
+            <BootstrapTable
+              keyField='name'
+              data={movies}
+              columns={columns}
+              striped
+              hover
+              bootstrap4
+            />
+          ) : (
+            <p className="text-center">No movies available</p>
+          )}
+        </div>
+      </div>
     </div>
   );
 }

@@ -263,6 +263,526 @@
     {
       "name": "Finding Dory",
       "recommended": true
+    },
+    {
+      "name": "Finding Nemo",
+      "recommended": true
+    },
+    {
+      "name": "My Neighbour Totoro",
+      "recommended": true
+    },
+    {
+      "name": "Andhadhun",
+      "recommended": true
+    },
+    {
+      "name": "Prison Break",
+      "recommended": true
+    },
+    {
+      "name": "Justice League",
+      "recommended": true
+    },
+    {
+      "name": "Charlie 777",
+      "recommended": true
+    },
+    {
+      "name": "Aquaman",
+      "recommended": true
+    },
+    {
+      "name": "Shazam",
+      "recommended": true
+    },
+    {
+      "name": "WW (World War)",
+      "recommended": true
+    },
+    {
+      "name": "QuadrigaCX Documentary Netflix",
+      "recommended": true
+    },
+    {
+      "name": "DoctorG",
+      "recommended": true
+    },
+    {
+      "name": "Khakee The Bihar Chapter",
+      "recommended": true
+    },
+    {
+      "name": "Everything Everywhere All At Once",
+      "recommended": true
+    },
+    {
+      "name": "Dekster",
+      "recommended": true
+    },
+    {
+      "name": "Prison Break",
+      "recommended": true
+    },
+    {
+      "name": "Breaking Bad",
+      "recommended": true
+    },
+    {
+      "name": "Better Call Saul",
+      "recommended": true
+    },
+    {
+      "name": "The Wire (Classic Series 2005)",
+      "recommended": true
+    },
+    {
+      "name": "Bad Boy Billionaires",
+      "recommended": true
+    },
+    {
+      "name": "Delhi Crimes (Season 1 and 2)",
+      "recommended": true
+    },
+    {
+      "name": "Butcher of Bangalore",
+      "recommended": true
+    },
+    {
+      "name": "Death Note Series",
+      "recommended": true
+    },
+    {
+      "name": "Billion Dollar Code",
+      "recommended": true
+    },
+    {
+      "name": "Playlist",
+      "recommended": true
+    },
+    {
+      "name": "Knives Out",
+      "recommended": true
+    },
+    {
+      "name": "The Prestige",
+      "recommended": true
+    },
+    {
+      "name": "Now You See Me (1 and 2)",
+      "recommended": true
+    },
+    {
+      "name": "Gifted Hands",
+      "recommended": true
+    },
+    {
+      "name": "King Richard",
+      "recommended": true
+    },
+    {
+      "name": "A Beautiful Mind",
+      "recommended": true
+    },
+    {
+      "name": "Oppenheimer",
+      "recommended": true
+    },
+    {
+      "name": "Yellowstone",
+      "recommended": true
+    },
+    {
+      "name": "Fauda 4",
+      "recommended": true
+    },
+    {
+      "name": "TVF Pitchers Season 1,2",
+      "recommended": true
+    },
+    {
+      "name": "The Legend of Maula Jatt",
+      "recommended": true
+    },
+    {
+      "name": "Jack Ryan Season 1 2 3",
+      "recommended": true
+    },
+    {
+      "name": "Mili",
+      "recommended": true
+    },
+    {
+      "name": "Designated Survivor",
+      "recommended": true
+    },
+    {
+      "name": "Doctor G",
+      "recommended": true
+    },
+    {
+      "name": "Squid Games",
+      "recommended": true
+    },
+    {
+      "name": "The Secrets in Their Eyes",
+      "recommended": true
+    },
+    {
+      "name": "Memories of Murder",
+      "recommended": true
+    },
+    {
+      "name": "Election",
+      "recommended": true
+    },
+    {
+      "name": "Kaleidoscope",
+      "recommended": true
+    },
+    {
+      "name": "Get Out",
+      "recommended": true
+    },
+    {
+      "name": "Black Mirror: Bandersnatch",
+      "recommended": true
+    },
+    {
+      "name": "Apocalypse Now",
+      "recommended": true
+    },
+    {
+      "name": "The Departed",
+      "recommended": true
+    },
+    {
+      "name": "Old Boy",
+      "recommended": true
+    },
+    {
+      "name": "Sin City",
+      "recommended": true
+    },
+    {
+      "name": "Swiss Army Man with Radcliffe",
+      "recommended": true
+    },
+    {
+      "name": "The Recruit",
+      "recommended": true
+    },
+    {
+      "name": "Alice in Borderland Series 1",
+      "recommended": true
+    },
+    {
+      "name": "Umbrella Academy",
+      "recommended": true
+    },
+    {
+      "name": "Future Man",
+      "recommended": true
+    },
+    {
+      "name": "Mission Impossible",
+      "recommended": true
+    },
+    {
+      "name": "Heart of Darkness",
+      "recommended": true
+    },
+    {
+      "name": "The Wire (Series)",
+      "recommended": true
+    },
+    {
+      "name": "Redux",
+      "recommended": true
+    },
+    {
+      "name": "The Journey Down the River",
+      "recommended": true
+    },
+    {
+      "name": "Blood and Black Lace",
+      "recommended": true
+    },
+    {
+      "name": "Suspiria",
+      "recommended": true
+    },
+    {
+      "name": "The Wicker Man",
+      "recommended": true
+    },
+    {
+      "name": "Black Christmas",
+      "recommended": true
+    },
+    {
+      "name": "Deep Red",
+      "recommended": true
+    },
+    {
+      "name": "Dressed to Kill",
+      "recommended": true
+    },
+    {
+      "name": "Twilight Saga",
+      "recommended": true
+    },
+    {
+      "name": "Love Mystery",
+      "recommended": true
+    },
+    {
+      "name": "Wicker Man",
+      "recommended": true
+    },
+    {
+      "name": "Dr. Strangelove",
+      "recommended": true
+    },
+    {
+      "name": "A Spy Among Friends",
+      "recommended": true
+    },
+    {
+      "name": "Blade Runner 2049",
+      "recommended": true
+    },
+    {
+      "name": "Dunkirk",
+      "recommended": true
+    },
+    {
+      "name": "Memento",
+      "recommended": true
+    },
+    {
+      "name": "Insomnia",
+      "recommended": true
+    },
+    {
+      "name": "The Prestige",
+      "recommended": true
+    },
+    {
+      "name": "The Batman Trilogy",
+      "recommended": true
+    },
+    {
+      "name": "Mulholland Dr",
+      "recommended": true
+    },
+    {
+      "name": "Blue Velvet",
+      "recommended": true
+    },
+    {
+      "name": "Sunshine - An Overlooked Gem by Danny Boyle",
+      "recommended": true
+    },
+    {
+      "name": "Mandy",
+      "recommended": true
+    },
+    {
+      "name": "The Straight Story",
+      "recommended": true
+    },
+    {
+      "name": "Wolf of Wall Street",
+      "recommended": true
+    },
+    {
+      "name": "The Big Short",
+      "recommended": true
+    },
+    {
+      "name": "Moneyball",
+      "recommended": true
+    },
+    {
+      "name": "Don't Look Up",
+      "recommended": true
+    },
+    {
+      "name": "Terminator 1 and 2",
+      "recommended": true
+    },
+    {
+      "name": "Mission Majnu",
+      "recommended": true
+    },
+    {
+      "name": "Shadow Recruit",
+      "recommended": true
+    },
+    {
+      "name": "Sum of All Fears (2002)",
+      "recommended": true
+    },
+    {
+      "name": "Taaza Khabar Series",
+      "recommended": true
+    },
+    {
+      "name": "Shark Tank",
+      "recommended": true
+    },
+    {
+      "name": "An Action Hero",
+      "recommended": true
+    },
+    {
+      "name": "Apocalypse",
+      "recommended": true
+    },
+    {
+      "name": "Stranger Things",
+      "recommended": true
+    },
+    {
+      "name": "Fear Street 2, 3",
+      "recommended": true
+    },
+    {
+      "name": "Tigerking",
+      "recommended": true
+    },
+    {
+      "name": "Hearts of Darkness: A Filmmaker's Apocalypse",
+      "recommended": true
+    },
+    {
+      "name": "Vadh",
+      "recommended": true
+    },
+    {
+      "name": "Ashin of the North",
+      "recommended": true
+    },
+    {
+      "name": "Breaking Bad on Rerun",
+      "recommended": true
+    },
+    {
+      "name": "Bas Kar (Show)",
+      "recommended": true
+    },
+    {
+      "name": "Farzi",
+      "recommended": true
+    },
+    {
+      "name": "Jexi",
+      "recommended": true
+    },
+    {
+      "name": "Ex Machina",
+      "recommended": true
+    },
+    {
+      "name": "Night Agent",
+      "recommended": true
+    },
+    {
+      "name": "Mrs Chattarjee vs Norway",
+      "recommended": true
+    },
+    {
+      "name": "Vikram Vedha and Bholaa",
+      "recommended": true
+    },
+    {
+      "name": "7 Nights in Entebbe",
+      "recommended": true
+    },
+    {
+      "name": "Kerala Story",
+      "recommended": true
+    },
+    {
+      "name": "Gullak",
+      "recommended": true
+    },
+    {
+      "name": "13 Hours",
+      "recommended": true
+    },
+    {
+      "name": "Decoupled",
+      "recommended": true
+    },
+    {
+      "name": "Snatch",
+      "recommended": true
+    },
+    {
+      "name": "Crank",
+      "recommended": true
+    },
+    {
+      "name": "IB71",
+      "recommended": true
+    },
+    {
+      "name": "Operation Fortune",
+      "recommended": true
+    },
+    {
+      "name": "Replica",
+      "recommended": true
+    },
+    {
+      "name": "Chor Nikal Ke Bhaga",
+      "recommended": true
+    },
+    {
+      "name": "Utopia",
+      "recommended": true
+    },
+    {
+      "name": "Never Have I Ever",
+      "recommended": true
+    },
+    {
+      "name": "Extraction 2",
+      "recommended": true
+    },
+    {
+      "name": "Aashram",
+      "recommended": true
+    },
+    {
+      "name": "The Office (Australian)",
+      "recommended": true
+    },
+    {
+      "name": "Tulsidas Junior",
+      "recommended": true
+    },
+    {
+      "name": "Love Again",
+      "recommended": true
+    },
+    {
+      "name": "Ye Kaali Kaali Aankhein",
+      "recommended": true
+    },
+    {
+      "name": "Dhokha Around the Corner",
+      "recommended": true
+    },
+    {
+      "name": "Profile",
+      "recommended": true
+    },
+    {
+      "name": "The Big Short",
+      "recommended": true
     }
   ]
 }
