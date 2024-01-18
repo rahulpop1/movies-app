@@ -37,9 +37,9 @@ function Movies() {
 
   return (
     <div className="container mt-5">
-      <div className="row">
-        <div className="col-12">
-          <h1 className="text-center mb-4">Movie Recommendations</h1>
+      <div className="row justify-content-center">
+        <div className="col-12 col-md-8">
+          <h1 className="text-center mb-4 text-primary">Movie Recommendations</h1>
           {movies.length > 0 ? (
             <BootstrapTable
               keyField='name'
@@ -48,9 +48,10 @@ function Movies() {
               striped
               hover
               bootstrap4
+              classes="table table-bordered table-responsive-md table-dark"
             />
           ) : (
-            <p className="text-center">No movies available</p>
+            <p className="text-center text-danger">No movies available</p>
           )}
         </div>
       </div>
